@@ -1,6 +1,6 @@
 ## Hi there 🤙🏼
 
-I'm Marvin! I am Computer Science student at @BostonUniversity and @ECEParis
+I'm Marvin! I am Computer Science student at @BostonUniversity 🇺🇸 and @ECEParis 🇫🇷.
 I like coding and I am curious about about: Machine Learning, Deep Learning, Data Science, ReactJs, Swift, Blockchain & keep discovering new stuff everyday 💡🧠
 
 ### Skills 💻 🔥
