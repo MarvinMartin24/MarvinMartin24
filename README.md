@@ -4,9 +4,10 @@ I'm Marvin! I am Computer Science student at @BostonUniversity and @ECEParis
 I like coding and I am curious about about: Machine Learning, Deep Learning, Data Science, ReactJs, Swift, Blockchain & keep discovering new stuff everyday 💡🧠
 
 ### Skills 💻 🔥
-* Python (Numpy, Matplotlib, Pandas, Scikit-learn, Pytorch, TensorFlow)
+* Python (Numpy, Matplotlib, Pandas, Scikit-learn, Pytorch, TensorFlow, Flask, SocketIO)
 * Javascript (ReactJs)
 * Docker, Testing, DataBases (SQL, Mongo, Redis)
+* Distributed Systems (Hadoop, Spark)
 * Basic Java, C & Swift
 
 ### Resume 📃 
