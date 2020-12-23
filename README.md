@@ -5,6 +5,7 @@ I like coding and I am curious about about: Machine Learning, Deep Learning, Dat
 
 ### Skills 💻 🔥
 * Python (Numpy, Matplotlib, Pandas, Scikit-learn, Pytorch, TensorFlow, Flask, SocketIO)
+* R (Shiny, dplyr, ggplot2)
 * Javascript (ReactJs)
 * Docker, Testing, DataBases (SQL, Mongo, Redis)
 * Distributed Systems (Hadoop, Spark)
