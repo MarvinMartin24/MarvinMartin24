@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hi there 🤙🏼
 
-<!--
-**MarvinMartin24/MarvinMartin24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Marvin! 
 
-Here are some ideas to get you started:
+I am Computer Science student at @BostonUniversity and @ECEParis
+I like coding and I am curious about about: Machine Learning, Deep Learning, Data Science, ReactJs, Swift, Blockchain & keep discovering new stuff everyday 💡🧠
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills 💻 🔥
+* Python (Numpy, Matplotlib, Pandas, Scikit-learn, Pytorch, TensorFlow)
+* Javascript (ReactJs)
+* DataBases (SQL, Mongo, Redis)
+* Docker, Testing
+* Basic Java & C
+* Starting Swift
+
+### Resume 📃 
+Have a look here at [github.com/marvinmartin24/cv](https://marvinmartin24.github.io/data/cv.pdf)
+
+### Social Media 📃 
+Linkedin [linkedin](https://www.linkedin.com/in/marvin-martin-00b937120/)
+Twitter [twitter](https://twitter.com/marv1skate)
+
+### Medium Post 🖌
+Check them out here at [medium.com/@martin.marvin](https://medium.com/@martin.marvin).
+
+### Extra
+Skateboard 🛹 & Surf 🏄🏽‍
