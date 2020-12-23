@@ -13,7 +13,7 @@ I like coding and I am curious about about: Machine Learning, Deep Learning, Dat
 ### Resume 📃 
 Have a look here at [github.com/marvinmartin24/cv](https://marvinmartin24.github.io/data/cv.pdf)
 
-### Social Media 📃 
+### Social Media 🌍
 Linkedin [linkedin](https://www.linkedin.com/in/marvin-martin-00b937120/)
 & Twitter [twitter](https://twitter.com/marv1skate)
 
