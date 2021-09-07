@@ -2,7 +2,7 @@
 
 I'm Marvin! I just graduated from @BostonUniversity 🇺🇸 and @ECEParis 🇫🇷 in Computer Science and Information Systems. 
 I Work as Machine Learning Engineer Consultant for the Centre Sécurité Requin (Shark Detection).
-I like coding and I am curious about about: Problem solving, Machine Learning, Deep Learning, Data Science, MLOps, Blockchain & keep discovering new stuff everyday 💡🧠
+I like coding and I am curious about: Problem solving, Machine Learning, Deep Learning, Data Science, MLOps, Blockchain & keep discovering new stuff everyday 💡🧠
 
 ### Skills 💻 🔥
 * Python (Tensorflow2, Pytorch, PytorchLightning, Skit-Learn, Wandb, Spark, OpenCV, Pandas, Numpy)
