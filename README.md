@@ -1,7 +1,9 @@
 ## Hi there 🤙🏼
 
 I am a Machine Learning Engineer with 3+ Years of experience. I graduated from @BostonUniversity 🇺🇸 and @ECEParis 🇫🇷 in Computer Science and Information Systems.
+
 I worked for @Vic-ai and Centre Sécurité Requin (Shark Detection) as Machine Learning Engineer.
+
 I like coding and I am curious about: Problem solving, Machine Learning, Deep Learning, Data Science, MLOps, Blockchain & keep discovering new stuff everyday 💡🧠
 
 ### Skills 💻 🔥
