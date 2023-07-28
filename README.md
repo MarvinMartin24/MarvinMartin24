@@ -1,22 +1,24 @@
 ## Hi there 🤙🏼
 
-I'm Marvin! I just graduated from @BostonUniversity 🇺🇸 and @ECEParis 🇫🇷 in Computer Science and Information Systems. 
-I Work as Machine Learning Engineer Consultant for the Centre Sécurité Requin (Shark Detection).
+I am a Machine Learning Engineer with 3+ Years of experience. I graduated from @BostonUniversity 🇺🇸 and @ECEParis 🇫🇷 in Computer Science and Information Systems.
+I worked for @Vic-ai and Centre Sécurité Requin (Shark Detection) as Machine Learning Engineer.
 I like coding and I am curious about: Problem solving, Machine Learning, Deep Learning, Data Science, MLOps, Blockchain & keep discovering new stuff everyday 💡🧠
 
 ### Skills 💻 🔥
-* Python (Tensorflow2, Pytorch, PytorchLightning, Skit-Learn, Wandb, Spark, OpenCV, Pandas, Numpy)
-* Distributed Systems (Hadoop Stack, Spark)
-* Java 
-* R (Shiny, dplyr, ggplot2)
-* Javascript (ReactJs)
-* Docker, Testing, DataBases (SQL, Mongo, Redis)
-* Notions in C, Swift
+ * Languages: Python, Java, Bash. 
+ * ML Libraries: PyTorch, Keras, HuggingFace, PEFT, LangChain, OpenAI, Skit-Learn, Wandb, DVC, OpenCV, Pinecone, MLlib.
+ * Monitoring: Sentry, Datadog, Grafana, Zabbix.
+ * Deployment: Docker, Terraform, Kubernetes, AWS, Git-flow, Circle-ci.
+ * Cloud: AWS (SageMaker, S3, Lambda, Batch, ECS, EFS, SAM), GCP, Ray. 
+ * Databases: PostgreSQL, Redis, MongoDB, Firebase.
+ * Notions in C, R, JavaScript, Swift
 
 ### Resume 📃 
 Have a look here at [github.com/marvinmartin24/cv](https://marvinmartin24.github.io/data/cv.pdf)
 
 ### Certificates 📃 
+* [Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/certificate/AD5Z7KGC3QJY)
+* [Generative AI Fundamentals](https://www.cloudskillsboost.google/public_profiles/01a17435-5a17-40f0-88e0-972d77b2fda5/badges/3950403)
 * [Workera Software Engineer Deep Learning Assessment](https://app.workera.ai/public/candidate/certificate?code=AUNDCFBV)
 * [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/925K8YUCXEW2)
 * [GANs Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/MRPQR8RYY89R)
